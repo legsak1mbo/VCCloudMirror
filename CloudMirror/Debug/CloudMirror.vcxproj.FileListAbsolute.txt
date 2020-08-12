@@ -1,0 +1,2 @@
+\\Mac\WindowsShared\Windows-classic-samples-master\Samples\CloudMirror\CloudMirror\Debug\CloudMirror.vcxprojAssemblyReference.cache
+W:\Windows-classic-samples-master\Samples\CloudMirror\CloudMirror\Debug\CloudMirror.vcxprojAssemblyReference.cache
